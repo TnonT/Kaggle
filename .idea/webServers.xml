@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="acc0ffd1-afee-4c8a-8172-6c1894be1a1d" name="Kaggle_119" url="http://10.11.6.119">
+        <fileTransfer host="10.11.6.119" port="22" rootFolder="/home/hdj/tlm/pycharm_workspace/Kaggle/" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
